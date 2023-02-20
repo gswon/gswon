@@ -7,7 +7,7 @@
 ```Python
 skills = {
     'available': ['Python', 'HTML', 'CSS', 'JavaScript'],
-    'currently learning': ['Data Structure and Algorithm', 'Bash', 'React']
+    'learning': ['Data Structure and Algorithm', 'Bash', 'React']
 }    
      
 studying = {
