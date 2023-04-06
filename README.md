@@ -12,6 +12,6 @@ skills = {
      
 studying = {
     'major' : ['Computer Science'],
-    'minor' : ['Mathematics']
+    'minor' : ['Mathematics', 'Finance']
 }
 ```
