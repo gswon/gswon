@@ -6,8 +6,8 @@
 
 ```Python
 skills = {
-    'available': ['Python', 'HTML', 'CSS', 'JavaScript'],
-    'learning': ['C#', 'Bash']
+    'available': ['Python', 'HTML', 'CSS', 'JavaScript', 'C'],
+    'learning': ['C++', 'Bash']
 }    
      
 studying = {
