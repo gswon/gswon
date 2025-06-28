@@ -7,11 +7,10 @@
 ```Python
 skills = {
     'available': ['Python', 'HTML', 'CSS', 'JavaScript', 'C'],
-    'learning': ['C++', 'React', 'Bash']
+    'learning': ['React']
 }    
      
 studying = {
-    'major' : ['Computer Science'],
-    'minor' : ['Mathematics', 'Finance']
+    'major' : ['Computer Science & Data Science']
 }
 ```
