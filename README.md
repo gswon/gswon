@@ -9,7 +9,7 @@ CS & Data Science student @ NYU Courant (Minor in Mathematics)
 
 Interested in building intelligent systems—from scalable software to ML models that interact with the physical world.
 
-📫 Reach me: [your-email@nyu.edu]
+📫 Reach me: [gangwon.suh@nyu.edu]
 
 ## 🛠️ Tech Stack
 ```python
@@ -21,7 +21,3 @@ profile = {
 
 ## 📊 GitHub Stats
 ![Gangwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gswon&show_icons=true&theme=tokyonight)
-
----
-
-💬 Feel free to reach out for collaborations or just a chat about tech!
