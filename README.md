@@ -11,7 +11,6 @@
 ## 🎓 About Me
 
 **CS & Data Science** student @ **NYU Courant** (Minor in Mathematics)
-
 Interested in building intelligent systems—from scalable software to ML models that interact with the physical world.
 
 <br>
@@ -23,7 +22,6 @@ Interested in building intelligent systems—from scalable software to ML models
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-
 ### Tools & Frameworks
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
