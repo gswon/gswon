@@ -1,23 +1,55 @@
 # Hi, I'm Gangwon Suh 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgswon%2Fgswon&count_bg=%233EE7B1&title_bg=%23000000&icon=pinboard.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgswon%2Fgswon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gangwon-suh/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
 
 ## 🎓 About Me
 
-CS & Data Science student @ NYU Courant (Minor in Mathematics)
+**CS & Data Science** student @ **NYU Courant** (Minor in Mathematics)
 
 Interested in building intelligent systems—from scalable software to ML models that interact with the physical world.
 
-📫 Reach me: [gangwon.suh@nyu.edu]
+<br>
 
 ## 🛠️ Tech Stack
-```python
-profile = {
-    'languages': ['Python', 'JavaScript', 'C', 'HTML/CSS'],
-    'frameworks': ['React', 'Node.js' 'PyTorch']
-}
-```
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+
+### Tools & Frameworks
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+
+<br>
 
 ## 📊 GitHub Stats
-![Gangwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gswon&show_icons=true&theme=tokyonight)
+
+<div align="center">
+
+![Gangwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gswon&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gswon&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+💬 **Feel free to reach out for collaborations or just a chat about tech!**
+
+</div>
