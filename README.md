@@ -15,7 +15,6 @@
 Interested in building intelligent systems—from scalable software to ML models that interact with the physical world.
 
 <br>
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -31,25 +30,3 @@ Interested in building intelligent systems—from scalable software to ML models
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Gangwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gswon&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gswon&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-💬 **Feel free to reach out for collaborations or just a chat about tech!**
-
-</div>
