@@ -13,7 +13,7 @@
 Interested in building intelligent systems—from scalable software to ML models that interact with the physical world.
 
 <br>
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
