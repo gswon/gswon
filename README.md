@@ -1,6 +1,6 @@
 # Hi, I'm Gangwon Suh 👋
 
-<div align="center">
+<div align="left">
 
 [![www.linkedin.com/in/gangwon-suh](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gangwon-suh/)
 [![gangwon.suh@nyu.edu](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)
