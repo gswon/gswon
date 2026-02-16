@@ -9,7 +9,7 @@
 
 ## 🎓 About Me
 
-**Computer Science & Data Science** & Minor in Mathematics student @ **NYU Courant**.
+**Computer Science & Data Science** student @ **NYU Courant** (Minor in Mathematics).
 Interested in building intelligent systems—from scalable software to ML models that interact with the physical world.
 
 <br>
